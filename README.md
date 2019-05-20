@@ -1,6 +1,5 @@
 
-Command to build: gradle build 
-Command to run : gradle -t runPlayBinary
+Command to build: gradle build . Command to run : gradle -t runPlayBinary
 
 This project contains the API to enter a land owners name and address. It is implemented using the Play framework. The API returns the latitude and longitude coordinates which can be plugged into a Frontend to preview in any Maps plugin.
 
